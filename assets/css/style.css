@@ -4,10 +4,11 @@ body {
 
 .carousel-item {
     height: 600px;
+    transition: all;
 }
 
 footer{
-    height: 150px;
+    height: 100px;
 }
 
 .social-networks {
@@ -19,8 +20,7 @@ footer{
 }
 
 .social-networks i {
-    font-size: 160%;
-    margin: 1%;
-    padding: 5%;
-    color: #777777;
+    font-size: 100%;
+    margin: 5%;
+    padding: 0%;
 }

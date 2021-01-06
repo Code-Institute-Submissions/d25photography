@@ -12,40 +12,42 @@
 </head>
 <body>
   <!-- Navigation -->
-<div class="navigation-container"></div>
-<nav class="navbar navbar-light navbar-expand-sm">
-  <img src="./images/D25Photo.jpg" width="100" height="100" alt=".." loading="lazy">
-  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
-    <span class="navbar-toggler-icon"></span>
-  </button>
-  <div class="collapse navbar-collapse" id="navbarText">
-    <ul class="navbar-nav mr-auto">
-      <li class="nav-item active">
-        <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link" href="#">Gallery</a>
-      </li>
-       <li class="nav-item mr-2 d-block d-sm-none"><a class="nav-link" href="">Sign In / Sign Up</a></li>
-    </ul>
+<nav class="navbar navbar-expand-lg navbar-light">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="#">
+      <img src="./images/D25Photo.jpg" alt="" width="80" height="80" class="d-inline-block align-top">
+    </a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarNav">
+      <ul class="navbar-nav">
+        <li class="nav-item">
+          <a class="nav-link active" aria-current="page" href="#">Home</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#">Gallery</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#">Sign Up</a>
+        </li>
+      </ul>
     </div>
-    <div class="d-none d-md-block">
-    <button type="button" class="btn btn-primary btn-sm">Sign In / Sign Up<a href="/login"></a></button>
-    </div>
+  </div>
 </nav>
 <!-- /.Navigation -->
 
 <!-- Carousel -->
-<div id="carouselExampleInterval" class="carousel slide" data-bs-ride="carousel">
+<div id="carouselInterval" class="carousel-slide" data-bs-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active" data-bs-interval="10000">
-      <img src="./images/Wedding.jpeg" class="d-block w-100" alt="...">
+      <img src="./images/Wedding (1).jpeg" class="d-block w-100" alt="...">
     </div>
     <div class="carousel-item" data-bs-interval="2000">
-      <img src="./images/LilBeans.jpeg" class="d-block w-100" alt="...">
+      <img src="./images/LilBeans (1).jpeg" class="d-block w-100" alt="...">
     </div>
     <div class="carousel-item">
-      <img src="./images/BPier.jpeg" class="d-block w-100" alt="...">
+      <img src="./images/BPier2.jpeg" class="d-block w-100" alt="...">
     </div>
   </div>
   <a class="carousel-control-prev" href="#carouselExampleInterval" role="button" data-bs-slide="prev">
@@ -58,6 +60,38 @@
   </a>
 </div>
 <!-- /.Carousel -->
+<hr>
+<!-- Sales Pitch -->
+<div class="row row-cols-1 row-cols-md-3 g-4">
+  <div class="col">
+    <div class="card h-100">
+      <img src="./images/DDoor.jpeg" class="card-img-top" alt="...">
+      <div class="card-body">
+        <h5 class="card-title">Photography Coaching</h5>
+        <p class="card-text">Hone you skills with a photography course.</p>
+      </div>
+    </div>
+  </div>
+  <div class="col">
+    <div class="card h-100">
+      <img src="./images/LilBean2.jpeg" class="card-img-top" alt="...">
+      <div class="card-body">
+        <h5 class="card-title">Photoshoots</h5>
+        <p class="card-text">Bring the family together with a free photoshoot.</p>
+      </div>
+    </div>
+  </div>
+  <div class="col">
+    <div class="card h-100">
+      <img src="./images/BBeach.jpeg" class="card-img-top" alt="...">
+      <div class="card-body">
+        <h5 class="card-title">Social Gatherings</h5>
+        <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.</p>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- /.Sales Pitch -->
 
 <!-- Social -->
 <footer>
