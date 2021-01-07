@@ -2,25 +2,3 @@ body {
     font-family: Montserrat, sans-serif;
 }
 
-.carousel-item {
-    height: 600px;
-    transition: all;
-}
-
-footer{
-    height: 100px;
-}
-
-.social-networks {
-    text-align: center;
-}
-
-.social-networks li {
-    display: inline;
-}
-
-.social-networks i {
-    font-size: 100%;
-    margin: 5%;
-    padding: 0%;
-}
