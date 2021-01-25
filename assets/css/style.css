@@ -1,5 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&display=swap');
 
+body {
+    font-family: Raleway, sans-serif;
+    text-decoration: rgb(73, 68, 68);
+}
+
 /* The hero image */
 .hero-image {
   height: 50%;
@@ -10,7 +15,7 @@
 }
 
 .hero-text {
-  background-color: rgb(141, 140, 140); 
+  background-color: darkgray; 
   padding-top: 5px;
   padding-right: 35px;
   padding-bottom: 10px;
@@ -20,10 +25,34 @@
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-  color: rgb(255, 255, 255);
+  color: whitesmoke;
 }
 
 .hero-text h1 {
     text-transform: uppercase;
     font-weight: lighter;
+}
+
+/* Sales Pitch Cards */
+
+
+/* Social Footer */
+
+footer{
+  height: 150px;
+}
+
+.social-links{
+  text-align: center;
+}
+
+.social-links li{
+  display: inline;
+}
+
+.social-links i{
+  font-size: 130%;
+  margin: 1%;
+  padding: 5%;
+  color: rgb(73, 68, 68);
 }
