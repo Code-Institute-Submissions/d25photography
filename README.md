@@ -1,45 +1,62 @@
-<img src="https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png" style="margin: 0;">
+<h1 align="center">D25 Photography</h1>
 
-Welcome USER_NAME,
+[View the live project here.]()
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Gitpod and the extensions we use.
+This is the website for D25 Photography, a hobby turned business project. This website is  designed to be responsive and accessible on a range of devices, making it easy to navigate for potential customers.
 
-## Gitpod Reminders
+<h2 align="center"><img src="https://i.ibb.co/TYvTXz1/Example-CI.png"></h2>
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
+<img src="/images/D25Photo.jpg">
 
-`python3 -m http.server`
+## User Experience (UX)
 
-A blue button should appear to click: *Make Public*,
+-   ### User stories
 
-Another blue button should appear to click: *Open Browser*.
+    -   #### First Time Visitor Goals
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+        1. As a First Time Visitor, I want to easily understand the main purpose of the site and learn more about the D25 Photography.
+        2. As a First Time Visitor, I want to be able to easily navigate throughout the site to find content.
+        3. As a First Time Visitor, I want to look for testimonials to understand what their users think of them and see if they are trusted. I also want to locate their social media links to see their followings on social media to determine how trusted and known they are.
 
-A blue button should appear to click: *Make Public*,
+    -   #### Returning Visitor Goals
 
-Another blue button should appear to click: *Open Browser*.
+        1. As a Returning Visitor, I want to access quality photos that have been taken by D25 Photography.
+        2. As a Returning Visitor, I want to know what D25 Photography offers to me as a customer.
+        3. As a Returning Visitor, I want to find the best way to get in contact with D25 Photography with any questions I have.
+        4. As a Returning Visitor, I want to find social media links.
 
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
+    -   #### Frequent User Goals
+        1. As a Frequent User, I want to see of new offers.
+        2. As a Frequent User, I want to see the gallery content grow.
+        3. As a Frequent User, I want to see if I can meet other like-minded photographers with local meet ups and photography challenges.
 
-## Updates Since The Instructional Video
+-   ### Design
+    -   #### Colour Scheme
+        -   The two main colours used are white, and dark grey. This color scheme fits well alongside my D25 logo.
+    -   #### Typography
+        -   The Raleway font is the main font used throughout the whole website with Sans Serif as the fallback font in case for any reason the font isn't being imported into the site correctly. Raleway really caught my eye and it pairs well with other commonly used fonts within programming.
+    -   #### Imagery
+        -    Imagery is important. The large, hero image is designed to be striking and catch the user's attention. It also calls out community to me and this want I wanted to bring to the home page.
 
-We continually tweak and adjust this template to help give you the best experience. Here is the version history:
+*   ### Wireframes
 
-**October 21 2020:** Versions of the HTMLHint, Prettier, Bootstrap4 CDN and Auto Close extensions updated. The Python extension needs to stay the same version for now.
+    -   Home Page Wireframe - [View]()
 
-**October 08 2020:** Additional large Gitpod files (`core.mongo*` and `core.python*`) are now hidden in the Explorer, and have been added to the `.gitignore` by default.
+    -   Mobile Wireframe - [View]()
 
-**September 22 2020:** Gitpod occasionally creates large `core.Microsoft` files. These are now hidden in the Explorer. A `.gitignore` file has been created to make sure these files will not be committed, along with other common files.
+    -   Contact Page Wireframe - [View]()
 
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
+## Features
 
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
+-   Responsive on all device sizes
 
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
+-   Interactive elements
 
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
+## Technologies Used
 
---------
+### Languages Used
 
-Happy coding!
+-   [HTML5](https://en.wikipedia.org/wiki/HTML5)
+-   [CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
+
+### Frameworks, Libraries & Programs Used
