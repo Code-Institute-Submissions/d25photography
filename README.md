@@ -1,12 +1,12 @@
-<h1 align="center">D25 Photography</h1>
+<h1 align="center"><img src="/workspace/d25photography/assets/images/D25Photo.jpg"></h1>
 
-[View the live project here.]()
+[View the live project here.](https://danielmichael82.github.io/d25photography/)
 
 This is the website for D25 Photography, a hobby turned business project. This website is  designed to be responsive and accessible on a range of devices, making it easy to navigate for potential customers.
 
 <h2 align="center"><img src="https://i.ibb.co/TYvTXz1/Example-CI.png"></h2>
 
-<img src="/images/D25Photo.jpg">
+
 
 ## User Experience (UX)
 
