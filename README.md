@@ -2,33 +2,80 @@
 
 [View the live project here.](https://danielmichael82.github.io/d25photography/)
 
-This is the website for D25 Photography, a hobby turned business project. This website is  designed to be responsive and accessible on a range of devices, making it easy to navigate for potential customers.
+This is the website for D25 Photography, a hobby turned business project. Alongside this a focus for the site is to have a community section where photographers can meet up and share experiences and photography challenges. 
+This website is designed to be responsive and accessible on a range of devices, making it easy to navigate for potential customers.
 
-<h2 align="center"><img src="https://i.ibb.co/TYvTXz1/Example-CI.png"></h2>
 
+<h2 align="center"><img src=""></h2>
 
+# Table of contents
+
+- [UX](#User-Experience)
+    - [Owners Business Goals](#owners-business-goals)
+    - [User stories](#user-stories)
+        - [First Time User Goals](#first-time-user-goals)
+        - [Returning User goals](#returning-user-goals)
+        - [Frequent User Goals](#frequent-user-goals)
+    - [Design](#design)
+        - [Colour Scheme](#colour-scheme)
+        - [Typography](#typography)
+        - [Imagery](#imagery)
+    - [Wireframes](#wireframes)
+- [Features](#features)
+- [Technology Used](#technology-used)
+    - [Languages Used](#languages-used)
+    - [Frameworks](#frameworks)
+    - [Libraries Used](#libraries-used)
+    - [Programs Used](#programs-used)
+- [Testing](#testing)
+    - [Testing User Stories](#testing-user-stories)
+        - [First Time User Testing](#first-time-user-testing)
+        - [Returning User Testing](#returning-user-testing)
+        - [Frequent User Testing](#frequent-user-testing)
+    - [Further Testing](#further-testing)
+    - [Known Bugs](#known-bugs)
+- [Deployment](#deployment)
+    - [GitHub Pages](#github-pages)
+    - [Forking the GitHub Repository](#forking-the-github-repository)
+    - [Making a Local Clone](#making-a-local-clone)
+- [Credits](#credits)
+    - [Code](#code)
+    - [Content](#content
+     - [Media](#media)
+     - [Acknowledgements](#acknowledgements)
 
 ## User Experience (UX)
 
+
+-	### Owners Business Goals
+
+        1. As the owner of the website, I want this website to help present a new photography business to the public.
+        2. As the owner of the website, I want to be able to present a professional website to exhibit the skill and quality that I as a photographer has to offer.
+        3. As the owner of the website, I want to see engagement with the public to understand what they want from the business.
+        4. As the owner of the business, I have special offers for new customers, I want to reveal them on the site to gain customer interest.
+        5. As the owner of the website, I feel it is important to have a community around you to support you and your business. I want to build a community of photographer’s newcomers and experienced alike. 
+
+
 -   ### User stories
 
-    -   #### First Time Visitor Goals
+    -   #### First Time User Goals
 
-        1. As a First Time Visitor, I want to easily understand the main purpose of the site and learn more about the D25 Photography.
-        2. As a First Time Visitor, I want to be able to easily navigate throughout the site to find content.
-        3. As a First Time Visitor, I want to look for testimonials to understand what their users think of them and see if they are trusted. I also want to locate their social media links to see their followings on social media to determine how trusted and known they are.
+        1. As a first-time user to the site, I want to understand the main purpose of the site and learn more about D25 Photography and what they offer.
+        2. As a first-time user to the site, I want to be able to easily navigate throughout the site to find content.
+        3. As a first-time user to the site, I want to see what D25 Photography offer. I also want to locate their social media links to see their followings on social media to determine how trusted and known they are.
 
-    -   #### Returning Visitor Goals
+    -   #### Returning User Goals
 
-        1. As a Returning Visitor, I want to access quality photos that have been taken by D25 Photography.
-        2. As a Returning Visitor, I want to know what D25 Photography offers to me as a customer.
-        3. As a Returning Visitor, I want to find the best way to get in contact with D25 Photography with any questions I have.
-        4. As a Returning Visitor, I want to find social media links.
+        1. As a returning user, I want to access quality photos that have been taken by D25 Photography.
+        2. As a returning user, I want to know what D25 Photography offers to me as a customer.
+        3. As a returning user, I want to find the best way to get in contact with D25 Photography with any questions I have.
+        4. As a returning user, I want to find social media links.
 
     -   #### Frequent User Goals
         1. As a Frequent User, I want to see of new offers.
         2. As a Frequent User, I want to see the gallery content grow.
         3. As a Frequent User, I want to see if I can meet other like-minded photographers with local meet ups and photography challenges.
+
 
 -   ### Design
     -   #### Colour Scheme
