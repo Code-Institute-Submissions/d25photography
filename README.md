@@ -1,4 +1,4 @@
-<h1 align="center"><img src="/workspace/d25photography/assets/images/D25Photo.jpg"></h1>
+<h1 align="center"><img src="https://github.com/DanielMichael82/d25photography/blob/master/assets/images/D25Photo.jpg"></h1>
 
 [View the live project here.](https://danielmichael82.github.io/d25photography/)
 
@@ -24,9 +24,7 @@ This website is designed to be responsive and accessible on a range of devices, 
 - [Features](#features)
 - [Technology Used](#technology-used)
     - [Languages Used](#languages-used)
-    - [Frameworks](#frameworks)
-    - [Libraries Used](#libraries-used)
-    - [Programs Used](#programs-used)
+    - [Frameworks, Libraries & Programs Used](#frameworks-libraries-programs-used)
 - [Testing](#testing)
     - [Testing User Stories](#testing-user-stories)
         - [First Time User Testing](#first-time-user-testing)
@@ -40,7 +38,7 @@ This website is designed to be responsive and accessible on a range of devices, 
     - [Making a Local Clone](#making-a-local-clone)
 - [Credits](#credits)
     - [Code](#code)
-    - [Content](#content
+    - [Content](#content)
      - [Media](#media)
      - [Acknowledgements](#acknowledgements)
 
@@ -49,7 +47,7 @@ This website is designed to be responsive and accessible on a range of devices, 
 
 -	### Owners Business Goals
 
-        1. As the owner of the website, I want this website to help present a new photography business to the public.
+    -   1. As the owner of the website, I want this website to help present a new photography business to the public.
         2. As the owner of the website, I want to be able to present a professional website to exhibit the skill and quality that I as a photographer has to offer.
         3. As the owner of the website, I want to see engagement with the public to understand what they want from the business.
         4. As the owner of the business, I have special offers for new customers, I want to reveal them on the site to gain customer interest.
@@ -107,3 +105,24 @@ This website is designed to be responsive and accessible on a range of devices, 
 -   [CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
 
 ### Frameworks, Libraries & Programs Used
+
+1. [Bootstrap 4.6.0:](https://getbootstrap.com/docs/4.6/getting-started/introduction/)
+    - Bootstrap was used to assist with the responsiveness and styling of the website.
+1. [Google Fonts:](https://fonts.google.com/)
+    - Google fonts were used to import the 'Raleway' font into the style.css file which is used on all pages throughout the project.
+1. [Font Awesome:](https://fontawesome.com/)
+    - Font Awesome was used on all pages throughout the website to add icons for aesthetic and UX purposes.
+1. [jQuery:](https://jquery.com/)
+    - jQuery came with Bootstrap to make the navbar responsive but was also used for the smooth scroll function in JavaScript.
+1. [GitPod:](https://gitpod.io/)
+    - GitPod was used for version control by utilizing the Gitpod terminal to commit and push to GitHub.
+1. [GitHub:](https://github.com/)
+    - GitHub is used to store the projects code after being pushed from Git.
+1. [Tinyjgp:](https://tinyjpg.com/)
+    - Tinyjpg was used for resizing images
+1. [Imaging Edge:](https://imagingedge.sony.net/en-gb/ie-desktop.html)
+    - Imaging Edge was used to resize and edit all of the images on the site.
+    [Autodesk Sketchbook](https://apps.apple.com/gb/app/autodesk-sketchbook/id883738213#?platform=ipad)
+    - Autodesk Sketchbook was used to create the company logo.
+1. [Balsamiq:](https://balsamiq.com/)
+    - Balsamiq was used to create the [wireframes]() during the design process.
