@@ -5,22 +5,20 @@ body {
     text-decoration: rgb(73, 68, 68);
 }
 
-/* The hero image */
-.hero-image {
-  height: 50%;
-  padding-left: 0;
-  padding-right: 0;
-  background-position: center;
-  background-repeat: no-repeat;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-  position: relative;
 
+/* Jumbotron & Hero Image */
+
+.hero-container {
+    background-position: center;
+    background-repeat: no-repeat;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover; 
+    background-size: cover;
+    position: relative;
 }
 
-.hero-text {
+.jumbotron {
   background-color: darkgray; 
   padding-top: 5px;
   padding-right: 35px;
@@ -34,13 +32,11 @@ body {
   color: whitesmoke;
 }
 
-.hero-text h1 {
+.jumbotron h1 {
     text-transform: uppercase;
-    font-weight: lighter;
 }
 
 /* Sales Pitch Cards */
-
 
 /* Social Footer */
 
@@ -48,30 +44,22 @@ footer{
   height: 50px;
 }
 
-.social-links{
+.social-links {
   text-align: center;
+  padding-inline-start: 0px;
 }
 
-.social-links li{
+.social-links li {
   display: inline;
 }
 
-.social-links i{
-  font-size: 130%;
+.social-links i {
+  font-size: 140%;
   margin: 1%;
   padding: 5%;
   color: rgb(73, 68, 68);
 }
-
 /* Contact Form */
-
-.bg-image {
-  height: 25%;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  position: relative;
-}
 
 .contact-form {
   background-color: darkgray; 
