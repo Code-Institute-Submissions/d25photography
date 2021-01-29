@@ -5,15 +5,14 @@ body {
     text-decoration: rgb(73, 68, 68);
 }
 
-
-/* Jumbotron & Hero Image */
+/* Hero Image */
 
 .hero-container {
     height: 50vh;
 
-    background: url('../images/SheepW.jpeg') no-repeat center center fixed;
+    background: url('../images/SheepW.jpeg') repeat center center fixed;
     background-position: center;
-    background-repeat: no-repeat;
+    background-repeat: repeat;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover; 
@@ -21,14 +20,18 @@ body {
     position: relative;
 }
 
+/* Jumbotron*/
+
 .jumbotron {
+    height: 100px;
     background-color: darkgray;
-    padding-top: 5px;
+    padding-top: 10px;
     padding-right: 35px;
     padding-bottom: 10px;
     padding-left: 35px;
     text-align: center;
     position: relative;
+    background-size: cover;
     color: whitesmoke;
 }
 
@@ -37,15 +40,28 @@ body {
     font-weight: lighter;
 }
 
-.jumbotron .container-fluid {
-    padding-top: 250px;
+/* Sales Pitch Cards */
+
+
+
+/* Contact Cover Image*/
+
+.contact-image {
+    height: 50vh;
+
+    background-image: url('../images/64F.jpeg');
 }
 
-/* Sales Pitch Cards */
+/* Contact Form */
+
+.contact-form h2 {
+    text-transform: uppercase;
+    font-weight: lighter;
+}
 
 /* Social Footer */
 
-footer{
+footer {
     height: 50px;
 }
 
@@ -63,24 +79,4 @@ footer{
     margin: 1%;
     padding: 5%;
     color: rgb(73, 68, 68);
-}
-/* Contact Form */
-
-.contact-form {
-    background-color: darkgray; 
-    padding-top: 5px;
-    padding-right: 35px;
-    padding-bottom: 10px;
-    padding-left: 35px;
-    text-align: center;
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    color: whitesmoke;  
-}
-
-.contact-form h2 {
-    text-transform: uppercase;
-    font-weight: lighter;
 }
