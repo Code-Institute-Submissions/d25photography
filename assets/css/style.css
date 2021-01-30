@@ -10,9 +10,9 @@ body {
 .hero-container {
     height: 50vh;
 
-    background: url('../images/SheepW.jpeg') repeat center center fixed;
+    background: url('../images/SheepW.jpeg') no-repeat center center fixed;
     background-position: center;
-    background-repeat: repeat;
+    background-repeat: no-repeat;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover; 
@@ -23,7 +23,6 @@ body {
 /* Jumbotron*/
 
 .jumbotron {
-    height: 100px;
     background-color: darkgray;
     padding-top: 10px;
     padding-right: 35px;
@@ -49,7 +48,14 @@ body {
 .contact-image {
     height: 50vh;
 
-    background-image: url('../images/64F.jpeg');
+    background-image: url('../images/64F.jpeg') no-repeat center center fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover; 
+    background-size: cover;
+    position: relative;
 }
 
 /* Contact Form */

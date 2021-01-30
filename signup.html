@@ -29,12 +29,12 @@
             </button>
             <div class="collapse navbar-collapse" id="navbarText">
                 <ul class="navbar-nav mr-auto">
-                    <li class="nav-item active">
+                    <li class="nav-item">
                         <a class="nav-link" href="index.html">Home</a></li>
                     <li class="nav-item">
                         <a class="nav-link" href="gallery.html">Portfolio</a></li>
                     <li class="nav-item">
-                        <a class="nav-link" href="signup.html">Contact</a></li>
+                        <a class="nav-link active" href="signup.html">Contact</a></li>
                 </ul>
             </div>
         </nav>
@@ -42,34 +42,41 @@
     <!-- /.Navigation -->
 
     <!-- Hero Image -->
-    <div class="container-fluid contact-image"></div>
-    <!-- /.Hero Image -->
+    <div class="container-fluid contact-image">
+        <!-- /.Hero Image -->
 
-    <!-- Jumbotron Contact-->
-    <div class="jumbotron container">
-        <form class="contact-form" action="post" method="get">
-            <h2>Let's Capture your interest! <i class="fas fa-camera"></i></h2>
-            <input class="text-input" type="text" id="fname" name="fname" size="25" placeholder="First Name"
-                required><br>
-            <input class="text-input" type="text" id="lname" name="lname" size="25" placeholder="Last Name"
-                required><br>
-            <input class="text-input" id="email" type="email" name="email_address" size="35" placeholder="Email"
-                required><br>
-            <label for="weddings">Weddings</label>
-            <input type="checkbox" id="weddings" name="weddings" value="weddings"><br>
-            <label for="family-portraits">Family Portraits</label>
-            <input type="checkbox" id="fportraits" name="fportraits" value="family-portraits"><br>
-            <label for="corporate">Corporate Shoots</label>
-            <input type="checkbox" id="corporate" name="corporate" value="corporate"><br>
-            <label for="socialgatherings">Social Gatherings</label>
-            <input type="checkbox" id="socialgatherings" name="socialgatherings" value="socialgatherings"><br>
-            <label for="prints">Landscape Prints</label>
-            <input type="checkbox" id="prints" name="prints" value="prints"><br>
-            <button type="button" class="btn btn-success">Keep in Touch!</button>
-        </form>
+        <!-- Jumbotron Contact-->
+        <div class="jumbotron container">
+            <div class="row">
+                <div class="col-12">
+                    <form class="contact-form" action="post" method="get">
+                        <h2>Let's Capture your interest! <i class="fas fa-camera"></i></h2>
+                        <input class="text-input" type="text" id="fname" name="fname" size="25" placeholder="First Name"
+                            required><br>
+                        <input class="text-input" type="text" id="lname" name="lname" size="25" placeholder="Last Name"
+                            required><br>
+                        <input class="text-input" id="email" type="email" name="email_address" size="35"
+                            placeholder="Email" required><br>
+                        <label for="weddings">Weddings</label>
+                        <input type="checkbox" id="weddings" name="weddings" value="weddings"><br>
+                        <label for="family-portraits">Family Portraits</label>
+                        <input type="checkbox" id="fportraits" name="fportraits" value="family-portraits"><br>
+                        <label for="corporate">Corporate Shoots</label>
+                        <input type="checkbox" id="corporate" name="corporate" value="corporate"><br>
+                        <label for="socialgatherings">Social Gatherings</label>
+                        <input type="checkbox" id="socialgatherings" name="socialgatherings"
+                            value="socialgatherings"><br>
+                        <label for="prints">Landscape Prints</label>
+                        <input type="checkbox" id="prints" name="prints" value="prints"><br>
+                        <button type="button" class="btn btn-success">Keep in Touch!</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+        <!-- /.Jumbotron Home-->
     </div>
-    <!-- /.Jumbotron Home-->
 
+    <hr>
 
     <!-- Socials -->
     <footer>
