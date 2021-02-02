@@ -83,13 +83,9 @@ This website is designed to be responsive and accessible on a range of devices, 
     -   #### Imagery
         -    Imagery is important. The large, hero image is designed to be striking and catch the user's attention. It also calls out community to me and this want I wanted to bring to the home page.
 
-*   ### Wireframes
+-   ### Wireframes
 
-    -   Home Page Wireframe - [View]()
-
-    -   Mobile Wireframe - [View]()
-
-    -   Contact Page Wireframe - [View]()
+<h2 align="center"><img src="https://github.com/DanielMichael82/d25photography/blob/6dabaa49e2b65b39810f8afa467e716b356c6ba7/assets/images/D25%20Wireframes.png"></h2>
 
 ## Features
 
@@ -122,7 +118,7 @@ This website is designed to be responsive and accessible on a range of devices, 
     - Tinyjpg was used for resizing images
 1. [Imaging Edge:](https://imagingedge.sony.net/en-gb/ie-desktop.html)
     - Imaging Edge was used to resize and edit all of the images on the site.
-    [Autodesk Sketchbook](https://apps.apple.com/gb/app/autodesk-sketchbook/id883738213#?platform=ipad)
+   [Autodesk Sketchbook:](https://apps.apple.com/gb/app/autodesk-sketchbook/id883738213#?platform=ipad)
     - Autodesk Sketchbook was used to create the company logo.
 1. [Balsamiq:](https://balsamiq.com/)
     - Balsamiq was used to create the [wireframes]() during the design process.
