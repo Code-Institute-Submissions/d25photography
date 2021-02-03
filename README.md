@@ -85,7 +85,7 @@ This website is designed to be responsive and accessible on a range of devices, 
 
 -   ### Wireframes
 
-<h2 align="center"><img src="https://github.com/DanielMichael82/d25photography/blob/6dabaa49e2b65b39810f8afa467e716b356c6ba7/assets/images/D25%20Wireframes.png"></h2>
+<h2 align="center"><img src="/workspace/d25photography/assets/images/D25 Wireframes.png"></h2>
 
 ## Features
 

@@ -24,10 +24,6 @@ body {
 
 .jumbotron {
     background-color: darkgray;
-    padding-top: 10px;
-    padding-right: 35px;
-    padding-bottom: 10px;
-    padding-left: 35px;
     text-align: center;
     position: relative;
     background-size: cover;
@@ -48,7 +44,7 @@ body {
 .contact-image {
     height: 50vh;
 
-    background-image: url('../images/64F.jpeg') no-repeat center center fixed;
+    background: url('../images/64F.jpeg') no-repeat center center fixed;
     background-position: center;
     background-repeat: no-repeat;
     -webkit-background-size: cover;
@@ -86,3 +82,4 @@ footer {
     padding: 5%;
     color: rgb(73, 68, 68);
 }
+
