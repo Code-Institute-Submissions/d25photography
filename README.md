@@ -77,7 +77,7 @@ This website is designed to be responsive and accessible on a range of devices, 
 
 -   ### Design
     -   #### Colour Scheme
-        -   The two main colours used are white, and dark grey. This color scheme fits well alongside my D25 logo.
+        -   The two main colours used are white, whitesmoke and dark grey. This color scheme fits well alongside my D25 logo.
     -   #### Typography
         -   The Raleway font is the main font used throughout the whole website with Sans Serif as the fallback font in case for any reason the font isn't being imported into the site correctly. Raleway really caught my eye and it pairs well with other commonly used fonts within programming.
     -   #### Imagery
@@ -85,7 +85,7 @@ This website is designed to be responsive and accessible on a range of devices, 
 
 -   ### Wireframes
 
-<h2 align="center"><img src="/workspace/d25photography/assets/images/D25 Wireframes.png"></h2>
+<h2 align="center"><img src="https://github.com/DanielMichael82/d25photography/blob/master/assets/images/D25%20Wireframes.png"></h2>
 
 ## Features
 
@@ -118,7 +118,71 @@ This website is designed to be responsive and accessible on a range of devices, 
     - Tinyjpg was used for resizing images
 1. [Imaging Edge:](https://imagingedge.sony.net/en-gb/ie-desktop.html)
     - Imaging Edge was used to resize and edit all of the images on the site.
-   [Autodesk Sketchbook:](https://apps.apple.com/gb/app/autodesk-sketchbook/id883738213#?platform=ipad)
+1. [Autodesk Sketchbook:](https://apps.apple.com/gb/app/autodesk-sketchbook/id883738213#?platform=ipad)
     - Autodesk Sketchbook was used to create the company logo.
 1. [Balsamiq:](https://balsamiq.com/)
     - Balsamiq was used to create the [wireframes]() during the design process.
+
+-   ### User stories
+
+-   #### First Time User Testing
+
+1. As a first-time user to the site, I found the site to be very straightforward and I understand that D25 is a photography company.
+2. As a first-time user to the site, I found the site very easy to navigate around when using my mobile and desktop.
+3. As a first-time user to the site, I discovered everything D25 Photography has to offer. 
+
+-   #### Returning User Testing
+
+1.    As a returning user, I saw great quality images for what D25 Photography has to offer.
+2.	  As a returning user, it was nice to see that the site offers 20% off wedding bookings and free family photoshoots.
+3.    As a returning user, I found the contact page was clear and concise with the form easy to fill in.
+4.    As a returning user, social media links were easily found at the bottom of each page with a logo for each one.
+
+-   #### Frequent User Testing
+
+1. As a Frequent User, I want to see of new offers, this is very visible on the home page.
+2. As a Frequent User, at the moment there is one picture for each section in the portfolio page, it would be great in the future to see each section grow with more photos.
+3. As a Frequent User, I have used the contact form too meeting up with others, it will be interesting to see how this develops on the site.
+
+### Further Testing
+
+-   The Website was tested on Google Chrome, Internet Explorer, Microsoft Edge and Safari browsers.
+-   The website was viewed on a variety of devices such as Desktop, Laptop, iPad 11.2, iPhone 11, iPhone 8 & Samsung a71.
+-   A large amount of testing was done to ensure that all pages were linking correctly and looked great on all devices.
+-   Friends and family members were asked to review the site and document to point out any bugs and/or user experience issues.
+
+### Known Bugs
+
+-   On some mobile devices the Hero Image pushes the size of screen out more than any of the other content on the page.
+-   A white gap can be seen to the right of the footer and navigation bar as a result.
+-   On Microsoft Edge and Internet Explorer Browsers, all links in Navbar are pushed upwards when hovering over them.
+
+## Deployment
+
+### GitHub Pages
+
+### Forking the GitHub Repository
+
+### Making a Local Clone
+
+## Credits
+
+### Code
+
+-   [Bootstrap4](https://getbootstrap.com/docs/4.6/getting-started/introduction/): Bootstrap Library used throughout the project mainly to make site responsive using the Bootstrap Grid System.
+
+### Content
+
+-   All content was written by the developer.
+
+### Media
+
+-   All images were created by the developer.
+
+### Acknowledgements
+
+-   My Mentor Adegbenga Adeye for helpful feedback throughout the project.
+
+-   Tutor support at Code Institute for their support.
+
+-	Jim Morel for offering a pre MS1 webinar.
