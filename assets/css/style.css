@@ -42,6 +42,10 @@ body {
     font-weight: lighter;
 }
 
+.jumbotron-form {
+    padding-left: 135px;
+    padding-right: 0px;
+}
 
 /* Contact Form */
 
