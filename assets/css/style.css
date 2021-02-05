@@ -35,6 +35,7 @@ body {
     color: whitesmoke;
     padding-bottom: 10px;
     padding-top: 30px;
+    margin-top: 50px;
 }
 
 .jumbotron h2 {
@@ -42,9 +43,10 @@ body {
     font-weight: lighter;
 }
 
-.jumbotron-form {
-    padding-left: 135px;
+.center {
+    padding-left: 375px;
     padding-right: 0px;
+    display: table;
 }
 
 /* Contact Form */
