@@ -26,6 +26,8 @@ This website is designed to be responsive and accessible on a range of devices, 
     - [Languages Used](#languages-used)
     - [Frameworks, Libraries & Programs Used](#frameworks-libraries-programs-used)
 - [Testing](#testing)
+    - [Functionality Testing](#functionality-testing)
+    - [Compatibility Testing](#compatibility-testing)
     - [Testing User Stories](#testing-user-stories)
         - [First Time User Testing](#first-time-user-testing)
         - [Returning User Testing](#returning-user-testing)
@@ -34,8 +36,6 @@ This website is designed to be responsive and accessible on a range of devices, 
     - [Known Bugs](#known-bugs)
 - [Deployment](#deployment)
     - [GitHub Pages](#github-pages)
-    - [Forking the GitHub Repository](#forking-the-github-repository)
-    - [Making a Local Clone](#making-a-local-clone)
 - [Credits](#credits)
     - [Code](#code)
     - [Content](#content)
@@ -54,7 +54,7 @@ This website is designed to be responsive and accessible on a range of devices, 
         5. As the owner of the website, I feel it is important to have a community around you to support you and your business. I want to build a community of photographer’s newcomers and experienced alike. 
 
 
--   ### User stories
+### User stories
 
     -   #### First Time User Goals
 
@@ -75,7 +75,7 @@ This website is designed to be responsive and accessible on a range of devices, 
         3. As a Frequent User, I want to see if I can meet other like-minded photographers with local meet ups and photography challenges.
 
 
--   ### Design
+### Design
     -   #### Colour Scheme
         -   The two main colours used are white, whitesmoke and dark grey. This color scheme fits well alongside my D25 logo.
     -   #### Typography
@@ -167,22 +167,32 @@ There is also a checkbox to highlight what the user is interested in.
 1. [Chrome DevTools:](https://developers.google.com/web/tools/chrome-devtools)
     - Chrome DevTools have massively assisted me during the build of this site, helping with fixes to my code and positioning of elements.
 
--   ### User stories
+### Functionality Testing 
 
--   #### First Time User Testing
+ I used Chrome DevTools throughout the project for testing and solving problems with responsiveness and style issues.
+
+
+### Compatibility Testing
+ Site was tested across multiple virtual mobile devices and browsers. I checked all supported devices in Chrome DevTools. 
+ 
+ I tested on hardware devices such as: Desktop, MacBook Pro 13, iPad 11.2, iPhone 8, iPhone 11 and Samsung a71.
+
+### User stories
+
+#### First Time User Testing
 
 1. As a first-time user to the site, I found the site to be very straightforward and I understand that D25 is a photography company.
 2. As a first-time user to the site, I found the site very easy to navigate around when using my mobile and desktop.
 3. As a first-time user to the site, I discovered everything D25 Photography has to offer. 
 
--   #### Returning User Testing
+#### Returning User Testing
 
 1.    As a returning user, I saw great quality images for what D25 Photography has to offer.
 2.	  As a returning user, it was nice to see that the site offers 20% off wedding bookings and free family photoshoots.
 3.    As a returning user, I found the contact page was clear and concise with the form easy to fill in.
 4.    As a returning user, social media links were easily found at the bottom of each page with a logo for each one.
 
--   #### Frequent User Testing
+#### Frequent User Testing
 
 1. As a Frequent User, I want to see of new offers, this is very visible on the home page.
 2. As a Frequent User, at the moment there is one picture for each section in the portfolio page, it would be great in the future to see each section grow with more photos.
@@ -191,7 +201,7 @@ There is also a checkbox to highlight what the user is interested in.
 ### Further Testing
 
 -   The website was tested on Google Chrome, Microsoft Edge and Safari browsers.
--   The website was viewed on a variety of devices such as Desktop, Laptop, iPad 11.2, iPhone 11, iPhone 8 & Samsung a71.
+-   The website was viewed on a variety of devices such as Desktop, MacBook Pro 13, iPad 11.2, iPhone 11, iPhone 8 & Samsung a71.
 -   A large amount of testing was done to ensure that all pages were linking correctly and looked great on all devices.
 -   Friends and family have reviewed the site and highlighted any bugs and/or user experience issues.
 
@@ -204,11 +214,33 @@ There is also a checkbox to highlight what the user is interested in.
 
 ### GitHub Pages
 
-### Forking the GitHub Repository
+The project was deployed on GitHub Pages. I used Gitpod as a development environment where I commited all changes to git version control system.
+I used push command in Gitpod to save changes into GitHub.
 
-### Making a Local Clone
+To deploy a project I had to:
+
+- Log in to GitHub and click on repository to deploy [MS1](https://github.com/DanielMichael82/d25photography)
+- Select `Settings` and find GitHub Pages section at the very bottom of the page
+- From source select `none` and then `Master` branch.
+- Click `Save` and page was deployed after auto-refresh.
+>  Your site is published at https://danielmichael82.github.io/d25photography//
+
+To run localy:
+* Log in to GitHub and click on repository to download [MS1](https://github.com/DanielMichael82/d25photography)
+* Select `Code` and click Download the ZIP file.
+* After downloading you can extract the file and use it in your local environment.
+
 
 ## Credits
+
+- To complete this project I used Code Institute student template: [gitpod full template](https://github.com/Code-Institute-Org/gitpod-full-template)
+
+- Ideas and knowledge library:
+
+    - [w3schools.com](https://www.w3schools.com)
+
+    - [getbootstrap.com/docs](https://getbootstrap.com/docs/4.6/getting-started/introduction/)
+        I used code for navbar, jumbotron and cards from Bootstrap.
 
 ### Code
 
@@ -229,3 +261,24 @@ There is also a checkbox to highlight what the user is interested in.
 -   Tutor support at Code Institute for their support.
 
 -	Jim Morel for offering a pre MS1 webinar.
+
+### Screenshots
+
+## Project screenshots
+
+<h2 align="center"><img src="https://github.com/DanielMichael82/d25photography/blob/master/assets/images/D25%20Wireframes.png"></h2>
+
+![Project](md_images/screenshots/home_2.png)
+
+![Project](md_images/screenshots/about.png)
+
+![Project](md_images/screenshots/offer_1.png)
+
+![Project](md_images/screenshots/offer_2.png)
+
+![Project](md_images/screenshots/offer_3.png)
+
+![Project](md_images/screenshots/contact.png)
+
+
+[Back to Table of contents](#table-of-contents)
