@@ -89,9 +89,51 @@ This website is designed to be responsive and accessible on a range of devices, 
 
 ## Features
 
--   The website is spread across 4 pages 
+## Navigation bar
 
--   
+- Navigation bar is visible on the top left hand-side of each page. The navigation bar is responsive and will adapt to mobile devices by a change into a burger menu.
+- Navigation scheme:
+
+    - On left side there is a logo. 
+    - Next to the logo there are three links or burger menu which contains:
+        - Home
+        - Portfolio
+        - Contact
+
+## Footer
+
+- The footer is consistent on all pages.  The footer has been utilised for the social media links.
+Each link will open in a separate tab in a browser.
+
+
+## Home
+
+### Jumbotron
+
+- The bootstrap jumbotron is placed under the navigation bar, which hosts a link to the contact page and welcomes users to the site.
+
+### Sales Cards
+
+- There are three bootstrap cards with images, these cards display offers for weddings, photoshoots and announce the community element of the site.
+Below each offer there are links to the contact page.
+
+## Portfolio
+
+- Portfolio includes four bootstrap cards all with images and descriptions relating to the topic of the service offered.
+
+## Contact
+
+- Contact form is where most of the links lead to. The user can contact D25 Photography by filling in the form with First Name, Last Name and Email.
+There is also a checkbox to highlight what the user is interested in.
+
+## Future Implementations
+
+1. A carousel of images to replace the home page jumbotron when site is gaining more frequent users.
+2. An extensive portfolio for each of the services.
+3. Add new page with pricing.
+4. A background image for the contact page.
+5. A community calendar for photography meet-ups and challenges.
+
 
 ## Technologies Used
 
