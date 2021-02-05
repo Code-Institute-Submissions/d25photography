@@ -29,6 +29,8 @@ body {
 /* Jumbotron*/
 
 .jumbotron {
+    width: 700px;
+    margin: 0 auto;
     background-color: darkgray;
     text-align: center;
     background-size: cover;
@@ -44,6 +46,8 @@ body {
 
 
 /* Contact Form */
+
+
 
 .contact-form h2 {
     text-transform: uppercase;
