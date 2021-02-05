@@ -266,19 +266,17 @@ To run localy:
 
 ## Project screenshots
 
-<h2 align="center"><img src="https://github.com/DanielMichael82/d25photography/blob/master/assets/images/D25%20Wireframes.png"></h2>
+<h2 align="center"><img src="https://github.com/DanielMichael82/d25photography/blob/master/assets/images/Mobile%20Home.png"></h2>
 
-![Project](md_images/screenshots/home_2.png)
+<h2 align="center"><img src="https://github.com/DanielMichael82/d25photography/blob/master/assets/images/Mobile%20Portfolio.png"></h2>
 
-![Project](md_images/screenshots/about.png)
+<h2 align="center"><img src="https://github.com/DanielMichael82/d25photography/blob/master/assets/images/Mobile%20Contact.png"></h2>
 
-![Project](md_images/screenshots/offer_1.png)
+<h2 align="center"><img src="https://github.com/DanielMichael82/d25photography/blob/master/assets/images/Tablet%20Home.png"></h2>
 
-![Project](md_images/screenshots/offer_2.png)
+<h2 align="center"><img src="https://github.com/DanielMichael82/d25photography/blob/master/assets/images/Tablet%20Portfolio.png"></h2>
 
-![Project](md_images/screenshots/offer_3.png)
-
-![Project](md_images/screenshots/contact.png)
+<h2 align="center"><img src="https://github.com/DanielMichael82/d25photography/blob/master/assets/images/Tablet%20Contact.png"></h2>
 
 
 [Back to Table of contents](#table-of-contents)
