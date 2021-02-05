@@ -246,6 +246,11 @@ To run localy:
 
 -   [Bootstrap4](https://getbootstrap.com/docs/4.6/getting-started/introduction/): Bootstrap Library used throughout the project mainly to make site responsive using the Bootstrap Grid System.
 
+-   [W3 Validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fdanielmichael82.github.io%2Fd25photography%2F)
+
+-   [W3C CSS Jigsaw](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fdanielmichael82.github.io%2Fd25photography%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
+Warnings are from bootstrap code used that i was unable to fix.
+
 ### Content
 
 -   All content was written by the developer.
