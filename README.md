@@ -89,9 +89,9 @@ This website is designed to be responsive and accessible on a range of devices, 
 
 ## Features
 
--   Responsive on all device sizes
+-   The website is spread across 4 pages 
 
--   Interactive elements
+-   
 
 ## Technologies Used
 
@@ -122,6 +122,8 @@ This website is designed to be responsive and accessible on a range of devices, 
     - Autodesk Sketchbook was used to create the company logo.
 1. [Balsamiq:](https://balsamiq.com/)
     - Balsamiq was used to create the [wireframes]() during the design process.
+1. [Chrome DevTools:](https://developers.google.com/web/tools/chrome-devtools)
+    - Chrome DevTools have massively assisted me during the build of this site, helping with fixes to my code and positioning of elements.
 
 -   ### User stories
 
@@ -146,16 +148,15 @@ This website is designed to be responsive and accessible on a range of devices, 
 
 ### Further Testing
 
--   The Website was tested on Google Chrome, Internet Explorer, Microsoft Edge and Safari browsers.
+-   The website was tested on Google Chrome, Microsoft Edge and Safari browsers.
 -   The website was viewed on a variety of devices such as Desktop, Laptop, iPad 11.2, iPhone 11, iPhone 8 & Samsung a71.
 -   A large amount of testing was done to ensure that all pages were linking correctly and looked great on all devices.
--   Friends and family members were asked to review the site and document to point out any bugs and/or user experience issues.
+-   Friends and family have reviewed the site and highlighted any bugs and/or user experience issues.
 
 ### Known Bugs
 
--   On some mobile devices the Hero Image pushes the size of screen out more than any of the other content on the page.
--   A white gap can be seen to the right of the footer and navigation bar as a result.
--   On Microsoft Edge and Internet Explorer Browsers, all links in Navbar are pushed upwards when hovering over them.
+-   On some mobile devices the Home page jumbotron pushes down overflowing the line break element.
+-   When validating the CCS code, errors in the Bootstrap code was shown but i have been unable to fix.
 
 ## Deployment
 
